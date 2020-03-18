@@ -1,0 +1,4 @@
+"0","library(googlesheets4)"
+"0","`出席狀況表單網址` <-  docs.google.com/spreadsheets/d/1oB-5hj1pO5g8FMpZbA7RgIG8NvCRx6WvLPwvleCEV4Q/edit#gid=987577191"
+"2","錯誤: unexpected symbol in ""`出席狀況表單網址` <-  docs.google.com/spreadsheets/d/1oB""
+"
