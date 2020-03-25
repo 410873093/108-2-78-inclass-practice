@@ -125,3 +125,53 @@ typeof(majors10_factor)
 class(majors10_factor)
 ```
 
+```{r}
+studentId <- c(410773002, 410773015)
+```
+
+```{r}
+stringInteger <- c("1","2","-11")
+class(stringInteger)
+as.integer(stringInteger)+6# 無法進行數值運算
+
+
+```
+
+```{r}
+
+```{r}
+as.integer(stringInteger)
+class(stringInteger)
+```
+
+台北 2020-03-18 13:52:40
+```{r}
+tpeTime <- ymd_hms("2020-03-18 13:52:40",
+        tz="Asia/Taipei")
+```
+
+```{r}
+tpeTime <- c("2020-03-18 13:52:40",
+             "2020-03-11 03:12:40")
+tpeTime <- 
+  ymd_hms(
+    tpeTime, # 呼叫tpeTime向量值
+    tz="Asia/Taipei"
+    )
+```
+
+```{r}
+library(lubridate)
+tpeTime <- ymd_hms("2020-03-18 13:52:40",
+        tz="Asia/Taipei")
+```
+
+```{r}
+tpeTime <- lubridate::ymd_hms("2020-03-18 13:52:40",
+        tz="Asia/Taipei")
+```
+
+```{r}
+pgTime <- mdy_hms("Mar.18, 2020, 05:52:40",
+                  tz="Europe/Lisbon")
+```
