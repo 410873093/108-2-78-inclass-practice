@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586783165929.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B02D43EB",
+    "lastKnownWriteTime" : 1586781488,
+    "last_content_update" : 1586783165929,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "d1a78d323f544b32b54516628eafaa43",
+        "name" : "小明交易1",
+        "title" : "小明交易1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
