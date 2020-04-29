@@ -1,3 +1,9 @@
-"0","Pikachu[c(atk,def,hp)]"
-"2","錯誤: 找不到物件 'atk'
+"0","as.numeric(Pikachu[[4]])->Pikachu_stats"
+"0",""
+"0","Pikachu_stats"
+"1","[1]"
+"1"," 112"
+"1","  96"
+"1"," 111"
+"1","
 "

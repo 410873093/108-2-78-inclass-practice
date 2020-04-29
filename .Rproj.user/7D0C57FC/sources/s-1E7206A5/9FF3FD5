@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586929594346.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "51|12|55|0|\n",
+    "hash" : "0",
+    "id" : "9FF3FD5",
+    "lastKnownWriteTime" : 1587532409,
+    "last_content_update" : 1587537447278,
+    "path" : "C:/Users/ASUS/Downloads/homework2 410873093.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "56,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587540285917.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4D4B63A6",
+    "lastKnownWriteTime" : 2314885436531749428,
+    "last_content_update" : 1587540285917,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "7618768fe5eb491a8235de3533a0f287",
+        "name" : "poem_song",
+        "title" : "poem_song"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
