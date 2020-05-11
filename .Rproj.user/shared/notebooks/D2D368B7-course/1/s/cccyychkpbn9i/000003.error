@@ -1,0 +1,1 @@
+{"frames":[{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"factor(garbageRoutes$linename)","line_number":0}],"message":"Error in factor(garbageRoutes$linename) : 找不到物件 'garbageRoutes'\n"}

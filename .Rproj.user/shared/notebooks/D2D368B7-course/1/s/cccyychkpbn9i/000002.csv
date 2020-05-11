@@ -1,0 +1,4 @@
+"0","# 由linename元素判斷垃圾車有幾條路線。"
+"0"," factor(garbageRoutes$linename) -> garbageRoutes$linename"
+"2","Error in factor(garbageRoutes$linename) : 找不到物件 'garbageRoutes'
+"
