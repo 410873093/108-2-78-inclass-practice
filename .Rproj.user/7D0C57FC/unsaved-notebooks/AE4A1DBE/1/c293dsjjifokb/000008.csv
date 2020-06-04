@@ -1,0 +1,8 @@
+"0","now()"
+"1","[1]"
+"1"," ""2020-06-04 20:06:26 CST"""
+"1","
+"
+"0","what_time_it_is(""Europe/Paris"")"
+"2","Error in what_time_it_is(""Europe/Paris"") : 沒有這個函數 ""what_time_it_is""
+"
