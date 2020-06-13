@@ -1,0 +1,14 @@
+"0","library(magrittr)"
+"2","
+Attaching package: ¡¥magrittr¡¦
+
+"
+"2","The following object is masked from ¡¥package:purrr¡¦:
+
+    set_names
+
+"
+"0","list_howEarly %>%"
+"0","  unlist() -> examSubmissionTime$howEarly"
+"2","Error in eval(lhs, parent, parent) : æ‰¾ä¸åˆ°ç‰©ä»¶ 'list_howEarly'
+"
