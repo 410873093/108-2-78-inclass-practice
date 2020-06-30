@@ -1,0 +1,11 @@
+"0",""
+"0","no_found( ""一"")"
+"2","No Found"
+"0","no_found<-function(k){if(sum(str_detect(ntpc_building_info$`name`,k))==0){warning(""No Found"")}"
+"0","}"
+"0",""
+"0"," no_found"
+"1","function(k){if(sum(str_detect(ntpc_building_info$`name`,k))==0){warning(""No Found"")}
+"
+"1","}
+"

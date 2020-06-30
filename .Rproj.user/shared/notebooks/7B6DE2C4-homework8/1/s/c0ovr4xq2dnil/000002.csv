@@ -1,0 +1,8 @@
+"0"," search_engine<-function(k){if(sum(str_detect(ntpc_building_info$`name`,k))==0){warning(""No Found"")}"
+"0","  else{str_detect(ntpc_building_info$`name`,k)->ntpu_garage"
+"0","map(ntpc_building_info,~.x[ntpu_garage])->ntpc_garage"
+"0","data.frame(ntpc_garage)->a"
+"0","return(a)"
+"0","}"
+"0","   }"
+"0"," search_engine(""停車場"")"
